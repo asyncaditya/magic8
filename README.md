@@ -1,5 +1,5 @@
 # Magic Ball 8
-> Ask it a Question and it will reveal to you the Unknown.
+> Ask it any Question and it will reveal to you the Unknown.
 
 ### Concepts Utilised
 1. Conditional Statements
