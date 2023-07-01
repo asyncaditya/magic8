@@ -10,3 +10,8 @@
 import random
 n = random.randint(1,9)
 ```
+
+### How to Run 
+```python
+python magic8.py
+```
